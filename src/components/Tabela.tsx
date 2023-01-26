@@ -1,5 +1,6 @@
 import Cliente from "@/core/Cliente"
 import { IconeEdit, IconeTrash } from "./Icones"
+import cliente from '../pages/index'
 
 interface TabelaProps{
     clientes: Cliente[]
