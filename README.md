@@ -36,3 +36,7 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Referencia do Projeto
+
+ Então as referencias desse projeto foram da Cod3r, para aprender como fazer um projeto desses é só procurar no youtube ou no site da cod3r que está disponível gratuitamente as aulas para aprender o basico de NextJS com REACT, este projeto é o trabalho final dessas aulas, vale a pena para conhecer um pouco do NextJS.
