@@ -37,7 +37,7 @@ export default function Tabela(props: TabelaProps) {
         })
     }
 
-    function renderAcoes() {
+    function renderAcoes(cliente: Cliente) {
         return(
             <td className="flex justify-center">
                 {props.clienteSelecionado ? (
